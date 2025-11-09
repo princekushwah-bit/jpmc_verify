@@ -43,7 +43,7 @@ const Index = () => {
           {/* Certificate Card */}
           <Card className="p-8 md:p-12 mb-8 border-2">
             <div className="text-center mb-8">
-              <h3 className="text-5xl font-bold text-primary mb-4">Ankush Nayak</h3>
+              <h3 className="text-5xl font-bold text-primary mb-4">PRINCE KUSHWAH</h3>
               <p className="text-xl text-muted-foreground mb-2">has successfully completed</p>
               <h4 className="text-3xl font-semibold text-foreground mb-4">
                 Software Engineering Virtual Experience
